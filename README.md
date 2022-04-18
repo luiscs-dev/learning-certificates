@@ -1,13 +1,40 @@
-# Online Learning Certificates
+# Online Learning Certificates :green_book:
 
 - Coursera
   - Specializations
-    - [Python 3 Programming by University of Michigan on Coursera](https://www.coursera.org/account/accomplishments/specialization/W8ZXKGX5XE7M). Certificate earned at November 19, 2020
-    - [Data Engineering, Big Data and ML on Google Cloud by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/specialization/TJNWPT5CWNAE). Certificate earned at November 8, 2020
-    - [Learn SQL Basics for Data Science by University of California, Davis on Coursera](https://www.coursera.org/account/accomplishments/specialization/2CUEVUDZZZB7). Certificate earned at September 20, 2020
-    - [Applied Data Science with Python by University of Michigan on Coursera](https://www.coursera.org/account/accomplishments/specialization/Z29AQJAPAA8X).  Certificate earned at September 19, 2020
+    - [AWS Fundamentals by AWS on Coursera](https://www.coursera.org/account/accomplishments/specialization/Y6XGQPCVY3QY)
+    - [Python 3 Programming by University of Michigan on Coursera](https://www.coursera.org/account/accomplishments/specialization/W8ZXKGX5XE7M)
+    - [Data Engineering, Big Data and ML on Google Cloud by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/specialization/TJNWPT5CWNAE)
+    - [Learn SQL Basics for Data Science by University of California, Davis on Coursera](https://www.coursera.org/account/accomplishments/specialization/2CUEVUDZZZB7)
+    - [Applied Data Science with Python by University of Michigan on Coursera](https://www.coursera.org/account/accomplishments/specialization/Z29AQJAPAA8X)
   - Courses
-    - Sub-item 2
+    - [Getting Started with AWS Machine Learning by AWS on Coursera](https://www.coursera.org/account/accomplishments/verify/K33W6SJYYBVS)
+    - [MLOps (Machine Learning Operations) Fundamentals by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/verify/NLUZ7FB9D6LX)
+    - [Mathematics for Machine Learning: Linear Algebra by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/verify/SGWLXGWNA4WU)
+    - [Introduction to Big Data by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/B5527JDJK2DT)
+    - [Big Data Integration and Processing by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/E2TC6SNDGHB7)
+    - [Machine Learning With Big Data by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/A6P6Q99X9MRD)
+    - [Graph Analytics for Big Data by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/93ZSC8LUP5CA)
+    - [Google Data Studio - Création de Tableaux de Bords Interactifs on Coursera](https://www.coursera.org/account/accomplishments/verify/A3PDDQXB3TFY)
+    - [Create Interactive Dashboards with Streamlit and Python on Coursera](https://www.coursera.org/account/accomplishments/verify/XTUPAZLKJKWB)
+    - [Build a Data Science Web App with Streamlit and Python on Coursera](https://www.coursera.org/account/accomplishments/verify/VG6ZLK7NKF5U)
+    - [Mandarin Chinese 1: Chinese for Beginners by Shanghai Jiao Tong University on Coursera](https://www.coursera.org/account/accomplishments/verify/2E29U3PRK37W)
+    - [Chinese for HSK 1 by Peking University on Coursera](https://www.coursera.org/account/accomplishments/verify/XRKHHJ335J9U)
+    - [First Step Korean by Yonsei University on Coursera](https://www.coursera.org/account/accomplishments/verify/7YH3WBBYNRHM)
+    - [Introduction to Git and GitHub by Google on Coursera](https://www.coursera.org/account/accomplishments/verify/ST9AQ9RDDVBZ)
+   - [Developing a Google SRE Culture by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/verify/CVB2SZDWHAPN)
+    - [Crash Course on Python by Google on Coursera](https://www.coursera.org/account/accomplishments/verify/JJSR2HWNURDZ)
+    - [The Data Scientist’s Toolbox by Johns Hopkins University on Coursera](https://www.coursera.org/account/accomplishments/verify/CW6VK9MRAW3P)
+    - [Data Visualization with Python by IBM on Coursera](https://www.coursera.org/account/accomplishments/verify/4RWTJ7HK8U34)
+    - [Java Programming: Solving Problems with Software by Duke University on Coursera](https://www.coursera.org/account/accomplishments/verify/SJEFC22YSMKP)
+    - [Big Data: adquisición y almacenamiento de datos by Universitat Autònoma de Barcelona on Coursera](https://www.coursera.org/account/accomplishments/verify/NMFU2T5UHLUP)
+    - [Big Data Modeling and Management Systems by University of California San Diego on Coursera](https://www.coursera.org/account/accomplishments/verify/WAL9P95GE2HL)
+    - [Big Data: procesamiento y análisis by Universitat Autònoma de Barcelona on Coursera](https://www.coursera.org/account/accomplishments/verify/DC2J943RPKUE)
+    - [Big Data: el impacto de los datos masivos en la sociedad actual by Universitat Autònoma de Barcelona on Coursera](https://www.coursera.org/account/accomplishments/verify/H3XCBFZ68XYG)
+    - [Creative Programming for Digital Media & Mobile Apps by University of London on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970251~1507140/pdf)
+    - [Learn to Program: The Fundamentals by University of Toronto on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970455~1507140/pdf)
+    - [Initiation à la programmation (en Java) by École Polytechnique Fédérale de Lausanne on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970401~1507140/pdf)
+    - [An Introduction to Interactive Programming in Python by Rice University on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970391~1507140/pdf)
 - EDX
   - Sub-item 1
 - Udacity
