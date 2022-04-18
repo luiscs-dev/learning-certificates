@@ -35,11 +35,21 @@
     - [Learn to Program: The Fundamentals by University of Toronto on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970455~1507140/pdf)
     - [Initiation à la programmation (en Java) by École Polytechnique Fédérale de Lausanne on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970401~1507140/pdf)
     - [An Introduction to Interactive Programming in Python by Rice University on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970391~1507140/pdf)
-- EDX :blue_book:
-  - Sub-item 1
+- edX :blue_book:
+  - [Managing Conflicts on Programs and Projects with Cultural and Emotional Intelligence by University System of Maryland on edX](https://courses.edx.org/certificates/7e5326ed37914a9da833480c6629f4b2)
+  - [Introduction to Jenkins by LinuxFoundationX on edX](https://courses.edx.org/certificates/4a2af615fab342e4b1513cbc7fd95263)
+  - [AWS Cloud Technical Essentials by AWS on edX](https://courses.edx.org/certificates/8983bece65854743adc270ceb3b2e03e)
+  - [Getting Started with Data Analytics on AWS by AWS on edX](https://courses.edx.org/certificates/ac26b7757e014376b8334c238d8dbd32)
+  - [AI for Everyone: Master the Basics by IBM on edX](https://courses.edx.org/certificates/de03ffbb485d416ea060baabfead1e7e)
+  - [Python Basics for Data Science by IBM on edX](https://courses.edx.org/certificates/768ad45cfff74417929e6ba5a709ed37)
+  - [Inglés básico: conversacional y networking by AnahuacX on edX](https://courses.edx.org/certificates/ada1b7c6c0ee47c3a18a0b09bfe11c56)
+  - [Blockchain: Understanding Its Uses and Implications by LinuxFoundationX on edX](https://courses.edx.org/certificates/32ff155822c847148ffb4209aec26541)
+  - [Gestión del estrés y Mindfulness by AnahuacX on edX](https://courses.edx.org/certificates/71336ffd5cbf430ab335558caac26ce5)
+  - [Introduction to DevOps and Site Reliability Engineering by LinuxFoundationX on edX](https://courses.edx.org/certificates/7c6489aa2e904015b903fa71a7538500)
+  - [Introduction to Serverless on Kubernetes by LinuxFoundationX on edX](https://courses.edx.org/certificates/b11622a1bce848b5b9bd7b1da5498fbb)
 - Udacity :notebook:
   - Sub-item 1
 - Udemy :orange_book:
   - Sub-item 1
 - LinkedIn Learning :closed_book:
-  -
+  - Sub-item 1
