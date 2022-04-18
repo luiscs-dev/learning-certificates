@@ -22,7 +22,7 @@
     - [Chinese for HSK 1 by Peking University on Coursera](https://www.coursera.org/account/accomplishments/verify/XRKHHJ335J9U)
     - [First Step Korean by Yonsei University on Coursera](https://www.coursera.org/account/accomplishments/verify/7YH3WBBYNRHM)
     - [Introduction to Git and GitHub by Google on Coursera](https://www.coursera.org/account/accomplishments/verify/ST9AQ9RDDVBZ)
-   - [Developing a Google SRE Culture by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/verify/CVB2SZDWHAPN)
+    - [Developing a Google SRE Culture by Google Cloud on Coursera](https://www.coursera.org/account/accomplishments/verify/CVB2SZDWHAPN)
     - [Crash Course on Python by Google on Coursera](https://www.coursera.org/account/accomplishments/verify/JJSR2HWNURDZ)
     - [The Data Scientist’s Toolbox by Johns Hopkins University on Coursera](https://www.coursera.org/account/accomplishments/verify/CW6VK9MRAW3P)
     - [Data Visualization with Python by IBM on Coursera](https://www.coursera.org/account/accomplishments/verify/4RWTJ7HK8U34)
