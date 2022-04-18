@@ -48,8 +48,12 @@
   - [Introduction to DevOps and Site Reliability Engineering by LinuxFoundationX on edX](https://courses.edx.org/certificates/7c6489aa2e904015b903fa71a7538500)
   - [Introduction to Serverless on Kubernetes by LinuxFoundationX on edX](https://courses.edx.org/certificates/b11622a1bce848b5b9bd7b1da5498fbb)
 - Udacity :notebook:
-  - Sub-item 1
-- Udemy :orange_book:
-  - Sub-item 1
+  - [AWS Machine Learning Foundations on Udacity](https://graduation.udacity.com/confirm/YZ7PAYXG)
 - LinkedIn Learning :closed_book:
-  - Sub-item 1
+  - Learning Path
+    - Conviértete en data analyst
+  - Courses
+    - Advanced SQL for Data Scientists
+    - Software Architecture: From Developer to Architect
+    - Data Strategy
+    - Advanced Python
