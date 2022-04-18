@@ -1,6 +1,6 @@
-# Online Learning Certificates :green_book:
+# Online Learning Certificates :books: 
 
-- Coursera
+- Coursera :green_book:
   - Specializations
     - [AWS Fundamentals by AWS on Coursera](https://www.coursera.org/account/accomplishments/specialization/Y6XGQPCVY3QY)
     - [Python 3 Programming by University of Michigan on Coursera](https://www.coursera.org/account/accomplishments/specialization/W8ZXKGX5XE7M)
@@ -35,11 +35,11 @@
     - [Learn to Program: The Fundamentals by University of Toronto on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970455~1507140/pdf)
     - [Initiation à la programmation (en Java) by École Polytechnique Fédérale de Lausanne on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970401~1507140/pdf)
     - [An Introduction to Interactive Programming in Python by Rice University on Coursera](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970391~1507140/pdf)
-- EDX
+- EDX :blue_book:
   - Sub-item 1
-- Udacity
+- Udacity :notebook:
   - Sub-item 1
-- Udemy
+- Udemy :orange_book:
   - Sub-item 1
-- LinkedIn Learning
+- LinkedIn Learning :closed_book:
   -
